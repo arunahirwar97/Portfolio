@@ -1,4 +1,4 @@
-# Responsive Portfolio Website Jhon Doe
+# Responsive Portfolio Website Arun Ahirwar
 
 <!-- ## [Watch it on youtube](https://youtu.be/6cidbUHNZRQ) -->
 
