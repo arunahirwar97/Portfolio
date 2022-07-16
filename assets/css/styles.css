@@ -214,13 +214,13 @@ img{
 /* ===== ABOUT =====*/
 .about__container{
     justify-items: center;
-    row-gap: 2rem;
+    row-gap: 5rem;
     text-align: center;
 }
 .about__img{
     display: flex;
     justify-content: center;
-    padding-top: 1rem;
+    padding-top: 2rem;
     width: 120px;
     height: 120px;
     background-color: var(--first-color);
@@ -228,7 +228,7 @@ img{
     overflow: hidden;
 }
 .about__img img{
-    width: 100px;
+    width: 200px;
 }
 .about__subtitle{
     font-size: var(--h2-font-size);
@@ -443,7 +443,8 @@ img{
         height: 200px;
     }
     .about__img img{
-        width: 165px;
+        width: 200px;
+
     }
 
     .skills__container{
